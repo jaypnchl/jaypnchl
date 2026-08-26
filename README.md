@@ -48,12 +48,10 @@ I'm a **DevOps & Platform Engineer** passionate about building **Cloud Native In
 
 <!-- Option 1: Static links to your top articles (replace titles with your actual post titles) -->
 - 📖 [Managing AWS Infrastructure with Terraform: A Step-by-Step Guide
-]([https://dev.to/jaypnchl](https://dev.to/jaypnchl/managing-aws-infrastructure-with-terraform-a-step-by-step-guide-19pf))
-- 📖 [How to Handle Sensitive Data in Jenkins Pipeline
-]([https://dev.to/jaypnchl](https://dev.to/jaypnchl/how-to-handle-sensitive-data-in-jenkins-pipeline-17a5))
+](https://dev.to/jaypnchl/managing-aws-infrastructure-with-terraform-a-step-by-step-guide-19pf)
+- 📖 [How to Handle Sensitive Data in Jenkins Pipeline](https://dev.to/jaypnchl/how-to-handle-sensitive-data-in-jenkins-pipeline-17a5)
 
 <!-- Option 2: Automated RSS Feed via GitHub Action (Uncomment below to auto-fetch latest posts) -->
 <!--
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
--->
