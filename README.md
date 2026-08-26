@@ -21,7 +21,6 @@ I'm a **DevOps & Platform Engineer** passionate about building **Cloud Native In
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Alpha Edge Cloud](https://img.shields.io/badge/Alpha%20Edge%20Cloud-0052CC?style=for-the-badge&logo=cloud&logoColor=white)
 
 #### 🔄 CI/CD & Security
@@ -36,8 +35,6 @@ I'm a **DevOps & Platform Engineer** passionate about building **Cloud Native In
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Instana](https://img.shields.io/badge/Instana-006699?style=for-the-badge&logo=ibm&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/dynatrace-%231496FF.svg?style=for-the-badge&logo=dynatrace&logoColor=white)
-![Loki](https://img.shields.io/badge/Grafana%20Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 #### 📜 Scripting & Configuration
 ![GNU Bash](https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
