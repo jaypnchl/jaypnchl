@@ -40,3 +40,20 @@ I'm a **DevOps & Platform Engineer** passionate about building **Cloud Native In
 ![GNU Bash](https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![YAML](https://img.shields.io/badge/yaml-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
+
+---
+
+### 📝 Latest Blog Posts
+[![dev.to badge](https://img.shields.io/badge/dev.to-jaypnchl-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jaypnchl)
+
+<!-- Option 1: Static links to your top articles (replace titles with your actual post titles) -->
+- 📖 [Managing AWS Infrastructure with Terraform: A Step-by-Step Guide
+]([https://dev.to/jaypnchl](https://dev.to/jaypnchl/managing-aws-infrastructure-with-terraform-a-step-by-step-guide-19pf))
+- 📖 [How to Handle Sensitive Data in Jenkins Pipeline
+]([https://dev.to/jaypnchl](https://dev.to/jaypnchl/how-to-handle-sensitive-data-in-jenkins-pipeline-17a5))
+
+<!-- Option 2: Automated RSS Feed via GitHub Action (Uncomment below to auto-fetch latest posts) -->
+<!--
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+-->
