@@ -40,8 +40,3 @@ I'm a **DevOps & Platform Engineer** passionate about building **Cloud Native In
 ![GNU Bash](https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![YAML](https://img.shields.io/badge/yaml-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaypnchl&show_icons=true&theme=radial)
